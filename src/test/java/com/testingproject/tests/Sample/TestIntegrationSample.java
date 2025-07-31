@@ -1,4 +1,4 @@
-package com.testingproject.Sample;
+package com.testingproject.tests.Sample;
 
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;

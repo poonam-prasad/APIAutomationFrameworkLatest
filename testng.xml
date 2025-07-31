@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="C:/Users/poonam.prasad/IdeaProjects/APIAutomationFrameworkLatest">
     <classes>
-        <class name="com.testingproject.Sample.TestIntegrationSample">
+        <class name="com.testingproject.tests.CRUD.TestCreateBooking">
 
         </class>
     </classes>
